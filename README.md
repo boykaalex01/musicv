@@ -93,6 +93,9 @@ python3 main.py # run the bot.
 # continue the host with screen or anything else, thanks for reading.
 ```
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/boykaalex01/musicv)
+
+
 # Credits 💖
 
 - [Levina](https://github.com/levina-lab) ``Dev``
