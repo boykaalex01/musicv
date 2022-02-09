@@ -14,7 +14,7 @@
 </p>
 
 ## 📊 CodeFactor Stats
-[![CodeFactor](https://www.codefactor.io/repository/github/levina-lab/video-stream/badge)](https://www.codefactor.io/repository/github.com/boyka29/music)
+[![CodeFactor](https://www.codefactor.io/repository/github/levina-lab/video-stream/badge)](https://www.codefactor.io/repository/github.com/boykaalex01/musicv)
 
 ## 🎭 Preview
 <p align="center">
